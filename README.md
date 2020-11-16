@@ -7,7 +7,7 @@ Before that, I was a research intern at SenseTime supervised by Mr. Guangqi Chen
 
 Coding could be the thing I love most, I have contributed to multiple repositories, including [OpenCV](https://github.com/opencv/opencv), [MMCV](https://github.com/open-mmlab/mmcv), etc. I'm currently the maintainer of [PySOT](github.com/STVIR/PySOT).
 I am passionate about public welfare, I was a volunteer with the human settlement program of the Australian Red Cross.
-And I believe the world would be better if we apply coding in public welfare, I founded [wuhan.support](https://github.com/wuhan.support) in January 2020 for COVID-19.
+And I believe the world would be better if we apply coding in public welfare, I founded [wuhan.support](https://github.com/wuhan-support) in January 2020 for COVID-19.
 
 I am looking for PhD opportunities as well as research assistant/intern positions. Please drop me an [email](mailto:this@zyc.ai) if you are interested, you may also add me on [Messenger](https://m.me/zyc.fb) or WeChat: zyc-personal.
 
