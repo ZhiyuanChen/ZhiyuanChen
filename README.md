@@ -13,9 +13,13 @@ I am looking for PhD opportunities as well as research assistant/intern position
 
 Please do NOT send me an email if you are having troubles to run some code or cannot reproduce some results, instead, you are more than welcome to create an issue or start a discussion and @me. I will not be answering any question via email, since it would be unfair to others.
 
-#### We ([Fei Wang](http://wangfei.info/)'s group at SenseTime) are looking for a highly self-motivated and talented intern for ultra large-scale dataset constructions, self-supervised learning, and transformer in vision. Please drop me an [email](chenzhiyuan1@tetras.ai) if you are interested. 
+#### We (3D Vision and Augmented Reality team lead by [Mr. Fei Wang](http://wangfei.info/) at SenseTime) are looking for a highly self-motivated and talented intern for ultra large-scale dataset constructions, self-supervised learning, and transformer in vision. Please drop me an [email](chenzhiyuan1@tetras.ai) if you are interested. 
 
 [![Zhiyuan's github stats](https://github-readme-stats.vercel.app/api?username=ZhiyuanChen)](https://github.com/ZhiyuanChen)
+
+## Activities
+
+Conference Reviewer: ICRA(2021)
 
 <!--
 **ZhiyuanChen/ZhiyuanChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
