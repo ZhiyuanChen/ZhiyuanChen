@@ -11,7 +11,7 @@ And I believe the world would be better if we apply coding in public welfare, I 
 
 I am looking for PhD opportunities as well as research assistant/intern positions. Please drop me an [email](mailto:this@zyc.ai) if you are interested, you may also add me on [Messenger](https://m.me/zyc.fb) or WeChat: zyc-personal.
 
-Please do NOT send me an email if you are having troubles to run some code or cannot reproduce some results, instead, you are more than welcome to create an issue or start a discussion and @me. I will not be answering any question via email, since it would be unfair to others.
+Please do NOT send me emails if you are having troubles to run some code or cannot reproduce some results, instead, you are more than welcome to create an issue or start a discussion and @me. I will not be answering any question via email, since it would be unfair to others.
 
 #### We (3D Vision and Augmented Reality team lead by [Mr. Fei Wang](http://wangfei.info/) at SenseTime) are looking for a highly self-motivated and talented intern for ultra large-scale dataset constructions, self-supervised learning, and transformer in vision. Please drop me an [email](chenzhiyuan1@tetras.ai) if you are interested. 
 
