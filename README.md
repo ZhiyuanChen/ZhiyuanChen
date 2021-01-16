@@ -15,7 +15,8 @@ Please do NOT send me emails if you are having troubles to run some code or cann
 
 #### We (Identity Authentication and Video Perception team lead by [Mr. Fei Wang](http://wangfei.info/) at SenseTime) are looking for highly self-motivated and talented interns. Please drop me an [email](chenzhiyuan1@tetras.ai) if you are interested. 
 
-[![Zhiyuan's github stats](https://github-readme-stats.vercel.app/api?username=ZhiyuanChen)](https://github.com/ZhiyuanChen)
+<img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZhiyuanChen&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="140"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiyuanChen&layout=compact&theme=chartreuse-dark&hide_border=true" height="140"/>
 
 ## Activities
 
