@@ -14,6 +14,8 @@ I am looking for PhD opportunities as well as research assistant/intern position
 
 Please do NOT send me emails if you are having troubles to run some code or cannot reproduce some results, instead, you are more than welcome to create an issue or start a discussion and @me. I will not be answering any question via email, since it would be unfair to others.
 
+**We ([Computational Biology Group](https://www.microsoft.com/en-us/research/group/computational-biology-group/) at the [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)) are looking for highly self-motivated and talented interns, especially those are majored in Biology. Coding ability is NOT required. Please drop me an [email](mailto:v-zhichen@microsoft.com) if you are interested.**
+
 <img align="left" alt="Fred's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZhiyuanChen&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" height="140"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiyuanChen&layout=compact&theme=chartreuse-dark&hide_border=true" height="140"/>
 
