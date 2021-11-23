@@ -17,6 +17,7 @@ Please do NOT send me emails if you are having troubles to run some code or cann
 **We ([Computational Biology Group](https://www.microsoft.com/en-us/research/group/computational-biology-group/) at the [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)) are looking for highly self-motivated and talented interns with deep learning background, knowledge in Biology is not required. Please drop me an [email](mailto:v-zhichen@microsoft.com) if you are interested.**
 
 [![Zhiyuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhiyuanChen&custom_title=Zhiyuan's GitHub Stats&show_icons=true&count_private=true&theme=panda)](https://github.com/ZhiyuanChen)
+
 [![Zhiyuan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ZhiyuanChen&custom_title=Zhiyuan's WakaTime Stats&layout=compact&time_range=last_year&theme=panda)](https://github.com/ZhiyuanChen)
 
 ## Activities
