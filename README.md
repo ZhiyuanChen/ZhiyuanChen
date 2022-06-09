@@ -1,4 +1,10 @@
-# G' day mate, how are you doing?
+---
+title: Zhiyuan Chen
+summary: Zhiyuan Chen
+authors:
+    - Zhiyuan Chen
+date: 2020-07-22 13:07:56
+---
 
 I'm Zhiyuan (pronounces as ˈʤ-jʊˈɑːn), an undergraduate student at the Australian National Unversity major in Advanced Intelligent System.
 I am extremely lucky to work as a research assistant under the guidance of [Dr. Pan Deng](https://www.microsoft.com/en-us/research/people/paden/) at Microsoft Research Asia, focus on computational biology, especially in genome and epigenome.
@@ -12,16 +18,10 @@ And I believe the world would be better if we apply coding in public welfare, I 
 
 I am looking for PhD opportunities as well as research assistant/intern positions. Please drop me an [email](mailto:this@zyc.ai) if you are interested, you may also add me on [Messenger](https://m.me/zyc.fb) or WeChat: zyc-personal.
 
-Please do NOT send me emails if you are having troubles to run some code or cannot reproduce some results, instead, you are more than welcome to create an issue or start a discussion and @me. I will not be answering any question via email, since it would be unfair to others.
-
 **We ([Computational Biology Group](https://www.microsoft.com/en-us/research/group/computational-biology-group/) at the [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)) are looking for highly self-motivated and talented interns with deep learning background, knowledge in Biology is not required. Please drop me an [email](mailto:v-zhichen@microsoft.com) if you are interested.**
 
-<a href="https://github.com/ZhiyuanChen"><img align="center" alt="Zhiyuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZhiyuanChen&custom_title=Zhiyuan's GitHub Stats&show_icons=true&count_private=true&theme=panda"/></a>
-<a href="https://github.com/ZhiyuanChent"><img align="center" alt="Zhiyuan's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ZhiyuanChen&custom_title=Zhiyuan's WakaTime Stats&layout=compact&time_range=last_year&theme=panda"/></a>
-
-## Activities
-
-Conference Reviewer: ICRA(2021)
+[![Zhiyuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZhiyuanChen&custom_title=Zhiyuan's GitHub Stats&show_icons=true&count_private=true&theme=panda)](https://github.com/ZhiyuanChen)
+[![Zhiyuan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ZhiyuanChen&custom_title=Zhiyuan's WakaTime Stats&layout=compact&time_range=last_year&theme=panda)](https://github.com/ZhiyuanChen)
 
 <!--
 **ZhiyuanChen/ZhiyuanChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
